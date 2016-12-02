@@ -1,17 +1,17 @@
 # Site settings
-title: 小精钢
-header-img: "img/hehua.jpg"
-tagline: "极光"  
-description: "一丝不苟的男人的魅力，仅次于一丝不挂的女人"  
+title: Forever
+header-img: "img/daosui.jpg"
+tagline: "永远"  
+description: "以梦为马，诗酒趁年华"  
 baseurl: ""
-url: "xiaojinggang.github.io"  
+url: "younnng.github.io"  
 #url: "http://localhost:4000"
 
 # About/contact
 owner: 
-  name: "小精钢"
+  name: "Allen"
   email: 1716660559@qq.com
-  bio: "停车坐爱风铃晚，霜叶红于二月花。"
+  bio: "一直特立独行的猪"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -19,7 +19,7 @@ favicon: img/favicon.ico
 
 douban_username: 
 twitter_username:   
-github_username: xiaojinggang  
+github_username: younnng  
 facebook_username:   
 weibo_username:   
 zhihu_username:   
@@ -53,7 +53,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "xiaojinggang"
+      author: "younnng"
       header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
@@ -61,9 +61,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : xiaojinggang
+    short_name : younnng
   disqus :
-      short_name : xiaojinggang
+      short_name : younnng
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-66863061-1
