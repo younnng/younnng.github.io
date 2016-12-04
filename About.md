@@ -5,27 +5,27 @@ description: "来，一起舞动青春"
 header-img: "img/plane.jpg"
 ---
 
-##### 自我描述：
+##### 嘿，你总算找到我啦：
 
-i am 烈火小精钢.
+i am Allen.
 
-you can call me 小精钢......
+you can call me Allen......
 
 ♂
 
-18
+21
 
-> 来，靠近我，聆听我的心声！！！
+> 一只特立独行的猪.....
 
 <center>
-    <p><img src="http://p1.bpimg.com/4851/4cc113ad7fbcb2d8.jpg" align="center"></p>
+    <p><img src="http://ww4.sinaimg.cn/mw690/0065PbKCgw1fa5gsn67fpj311s0schdt.jpg" align="center"></p>
 </center>
 
 Ehhhh...I believe this is the path to dream...
 
-在忙碌中经常会回想起冰棒汽水的味道，和那些无所事事一整个夏天的年少。
+如果年轻凝成泪水，很快就会吹干，青春正是长长的风，来自无垠，去向无踪。
 
-——小精钢
+——Allen
 
 
 > Wonderful and glory
