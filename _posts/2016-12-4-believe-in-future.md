@@ -2,8 +2,9 @@
 layout: post
 title: 第一篇博客测试
 categories: [blog ]
-tags: [Film, Talk, ]
+tags:
 description: 相信未来
+header-img: "img/yun.jpg"
 ---
 
 # #前言
