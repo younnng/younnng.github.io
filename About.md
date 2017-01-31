@@ -2,7 +2,7 @@
 layout: page
 title: "About me"
 description: "来，一起舞动青春"
-header-img: "img/plane.jpg"
+header-img: "img/yuan.jpg"
 ---
 
 ##### 嘿，你总算找到我啦：
