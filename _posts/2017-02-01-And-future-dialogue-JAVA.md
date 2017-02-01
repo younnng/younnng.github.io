@@ -78,13 +78,14 @@ PATH是可执行文件的搜索路径，在环境变量PATH搜索路径中的文
 4. 再输入：java HelloWorld 回车运行；
 5. 看看效果吧~~
 
+>当然，你也可以直接在eclipse这样的工具中直接创建文件，编辑好后直接进行控制台输出。
+
+
 图解如下：
 
 <center>
     <p><img src="http://wx4.sinaimg.cn/mw690/0065PbKCgy1fcba3vceqkj312e0ize32.jpg" align="center"></p>
 </center>
-
-当然，你也可以直接在eclipse这样的工具中直接创建文件，直接进行控制台输出。
 
 
 
