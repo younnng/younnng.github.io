@@ -28,15 +28,17 @@ Java是一门面向对象的计算机编程语言，是静态面向对象编程�
 当然，JAVA的特征和优点远远不止以上几点，在后篇会为大家详细阐述。
 
 
-### 关于JDK、JRE、JVM
+#### 关于JDK、JRE、JVM
+
 
 * JDK：全称Java Development Kit，是JAVA语言软件开发工具箱；
 * JRE：全称Java Runtime Environment，是JAVA的运行时环境；
 * JVM：全称Java Virtual Machine，是JAVA虚拟机；
 
+
 完整的JDK可以在甲骨文官网([Oracle](http://www.oracle.com/technetwork/cn/java/javase/downloads/index-jsp-138363-zhs.html))进行下载。
 
-### JAVA的加载与执行
+#### JAVA的加载与执行
 
 <center>
     <p><img src="http://wx3.sinaimg.cn/mw690/0065PbKCgy1fcb5hc2hctj30ek0b174i.jpg" align="center"></p>
@@ -50,7 +52,7 @@ Java是一门面向对象的计算机编程语言，是静态面向对象编程�
 
 EditPls以及其他的编写工具，大家可以去谷歌里面百度一下。
 
-### 配置PATH环境变量
+#### 配置PATH环境变量
 
 PATH是可执行文件的搜索路径，在环境变量PATH搜索路径中的文件或文件夹不需要输入完整路径即可通过“运行”打开。具体步骤图解如下：
 
@@ -58,7 +60,7 @@ PATH是可执行文件的搜索路径，在环境变量PATH搜索路径中的文
     <p><img src="http://wx4.sinaimg.cn/mw690/0065PbKCgy1fcb8u5onqnj319u0s34qp.jpg" align="center"></p>
 </center>
 
-### 编写程序 “HelloWorld”
+#### 编写程序 “HelloWorld”
 
 在桌面创建一个.TXT文件并且将文件名命名为“HelloWorld”后缀改写为.java。然后双击文件，用你安装的编写工具打开，在编写工具中输入这段代码：
 
@@ -68,7 +70,7 @@ PATH是可执行文件的搜索路径，在环境变量PATH搜索路径中的文
     4.	 }
     5. }
 
-### 运行“HelloWorld”
+#### 运行“HelloWorld”
 
 1. win+R 打开运行，在里面输入CMD点击确定；
 2. 在该文件径下输入：javac HelloWorld.java ；
@@ -83,7 +85,7 @@ PATH是可执行文件的搜索路径，在环境变量PATH搜索路径中的文
 </center>
 
 当然，你也可以直接在eclipse这样的工具中直接创建文件，直接进行控制台输出。
----
+
 
 
 >结语，对JAVA的初步认识到此结束，后续逐步更新loaing... 
