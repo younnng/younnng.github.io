@@ -89,5 +89,5 @@ PATH是可执行文件的搜索路径，在环境变量PATH搜索路径中的文
 
 
 
->结语，对JAVA的初步认识到此结束，后续逐步更新loaing... 
+>结语，对JAVA的初步认识到此结束，后续逐步更新loading... 
 >okey,Gimme five~
