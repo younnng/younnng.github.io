@@ -117,7 +117,7 @@ header-img: "img/yun.jpg"
 运行结果如下：
 
 <center>
-    <p><img src="http://wx1.sinaimg.cn/mw690/0065PbKCgy1fch1xnvtq9j30tz0h2dt2.jpg" align="center"></p>
+    <p><img src="http://p1.bpimg.com/567571/6001c3ce2e275257.jpg" align="center"></p>
 </center>
 
 所以，我们可以得到一下结论：
