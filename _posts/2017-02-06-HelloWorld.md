@@ -43,7 +43,7 @@ header-img: "img/yun.jpg"
 这些都是关键字，当然还有许多关键字这段代码里面没有，这里配个图：
 
 <center>
-    <p><img src="http://wx4.sinaimg.cn/mw690/0065PbKCgy1fcgvhec6yxj30tm0eytg9.jpg" align="center"></p>
+    <p><img src="http://wx1.sinaimg.cn/mw690/0065PbKCgy1fciyguhwy1j30j609ota4.jpg" align="center"></p>
 </center>
 
 ### JAVA中的标识符
