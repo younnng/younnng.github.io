@@ -17,5 +17,5 @@ header-img: "img/fan.jpg"
 > I can well remember that there was a time when a deep blue sky,the song of the birds,moonlight and flowers could never have kept me spellbind.
 
 <center>
-    <p><img src="http://p1.bpimg.com/567571/e83483cefffb4fb9.png" align="center"></p>
+    <p><img src="http://wx2.sinaimg.cn/mw690/0065PbKCly1fe6941g1bij308006077d.jpg" align="center"></p>
 </center>
