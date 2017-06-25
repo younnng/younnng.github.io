@@ -1,6 +1,6 @@
 # Microdust 微尘
 
-This is a blog created by Azeril. The blog is live at [azeril.me](http://azeril.me/).
+This is a blog created by Azeril. The blog is live at [younnng](https://younnng.github.io/).
 
 ## Thanks
 
@@ -18,7 +18,7 @@ The blog used many tool/service,many thanks to:
 
 ## How To Creat A Jekyll Blog
 
-[Build-Your-First-GitHub-Pages-Blog](http://azeril.me/blog/Build-Your-First-GitHub-Pages-Blog.html)
+[Build-Your-First-GitHub-Pages-Blog](http://www.google.com)
 
 Build your blog Step by step
 ## Just write
